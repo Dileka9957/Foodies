@@ -1,0 +1,39 @@
+.post__container {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .post__header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    
+  }
+  
+  .post__image {
+    margin-right: 10px;
+  }
+  
+  .post__username {
+    font-weight: bold;
+  }
+  
+  .post_reactimage {
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+  }
+  
+  .post__commentbox {
+    border: none;
+    border-top: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .post__comment {
+    margin-bottom: 5px;
+  }

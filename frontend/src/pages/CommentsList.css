@@ -1,0 +1,31 @@
+.comment-toolbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
+.comment-heading {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.comment-button {
+    padding: 5px 10px;
+    border: none;
+    color: #636363;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    /* :hover{
+        color: rgb(135, 115, 172);
+    } */
+}
+.comment-text {
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px 20px 20px;
+    border-radius: 20px;
+}
+
